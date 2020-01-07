@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PortSIPKotlin.iml" filepath="$PROJECT_DIR$/PortSIPKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIPSample/SIPSample.iml" filepath="$PROJECT_DIR$/SIPSample/SIPSample.iml" />
+    </modules>
+  </component>
+</project>
